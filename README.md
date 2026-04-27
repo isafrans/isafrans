@@ -52,16 +52,41 @@ Meu coração bate mais forte pelo **Front-end** — adoro criar interfaces boni
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Projetos
 
-<div align="center">
+### 🔐 [Sistema de Login Completo](https://github.com/isafrans/Sistema-de-Login-Completo)
+> Projeto Front-End com sistema completo de autenticação: login, cadastro, recuperação de senha, proteção de rotas e transições animadas entre páginas.
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=isabelle-caroline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelle-caroline&layout=compact&langs_count=6&theme=dracula" alt="Top Langs"/>
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
+
+### 🖩 [Calculadora Web](https://github.com/isafrans/Calculadora)
+> Calculadora moderna e responsiva com operações básicas, suporte a números negativos e histórico das últimas 5 operações.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📝 [ToDoList](https://github.com/isafrans/ToDoList)
+> Gerenciador de tarefas em Python com CLI, interface gráfica (Tkinter) e Web (Flask). Adicione, edite, conclua e remova tarefas com persistência local via .pkl.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+### 🧮 [Projeto Calculadora — SENAI](https://github.com/isafrans/projeto1_calculadora)
+> Primeiro projeto desenvolvido no curso Técnico de Desenvolvimento de Sistemas. ⭐ 1 star
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
 
 ## 🌟 Foco atual
 
